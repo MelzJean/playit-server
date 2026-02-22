@@ -1,4 +1,5 @@
 flask
-spleeter
-pandas==1.5.3
 gunicorn
+spleeter==2.3.0
+pandas==1.5.3
+numpy<2.0.0
